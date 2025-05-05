@@ -1,0 +1,12 @@
+﻿portNumber,projectName,applicationName,description
+1,qorela-dc,datacube-initializer,backend:
+1,qorela-dc,datacube-scheduler,backend:
+1,qorela-dc,datacube-queuer,backend:
+1,qorela-dc,datacube-query-scheduler:,backend:
+1,qorela-dc,datacube-query-queuer,backend:
+1,qorela-dc,datacube-alert-kafkaconsumer,backend:
+1,qorela-dc,datacube-alert-mailconsumer:,backend:
+1,qorela-dc,datacube-alert-notificationconsumer,backend:
+1,qorela-dc,datacube-alert-executeanalysisconsumer:,backend:
+1,qorela-geo,geodatagenerator,backend
+1,qorela-geo,geo-initializer,backend
