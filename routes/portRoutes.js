@@ -34,7 +34,7 @@ router.put('/:id', async (req, res) => {
     }
   });
   
-
+  // PUT /ports/:id – bir port kaydını siler
   router.delete('/:id', async (req, res) => {
     try {
       const id = req.params.id;
